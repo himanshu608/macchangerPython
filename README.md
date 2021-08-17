@@ -5,10 +5,14 @@ Simple mac address changer written in python
 Usage: macchanger.py [options]
 
 Options:
+
   -h, --help            show this help message and exit
+  
   -i INTERFACE, --interface=INTERFACE
+  
                         input your interface name of which you want to change
                         mac address.
   -m MAC_ADDR, --mac=MAC_ADDR
+  
                         Enter new mac address .
 
