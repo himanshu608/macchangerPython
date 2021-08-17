@@ -11,8 +11,9 @@ Options:
   -i INTERFACE, --interface=INTERFACE
   
                         input your interface name of which you want to change
-                        mac address.
+                        mac address eg. eth0, wlan0
+
   -m MAC_ADDR, --mac=MAC_ADDR
   
-                        Enter new mac address .
+                        Enter new mac address eg. 18:00:22:6d:12:81
 
