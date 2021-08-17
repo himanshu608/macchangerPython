@@ -1,7 +1,7 @@
 # macchangerPython
 Simple mac address changer written in python
 
-❯ python3 macchanger.py -h                          
+❯ python3 macchanger.py -h 																																							                         
 Usage: macchanger.py [options]
 
 Options:
